@@ -1,0 +1,37 @@
+input{
+  display: inline;
+}
+.first_name{
+  height: 20px;
+  border-radius: 2px;
+  border: dashed;
+  border-color: linen;
+}
+.last_name{height: 20px;
+  border-radius: 2px;
+  border: dashed;
+  border-color: linen;}
+
+.email_id{
+  height: 20px;
+  border-radius: 2px;
+  border: dashed;
+  border-color: linen;
+  margin-top: 10px;
+}
+.password{
+  height: 20px;
+  border-radius: 2px;
+  border: dashed;
+  border-color: linen;
+  margin-top: 10px;
+}
+
+.create_account{
+  width: 170px;
+  height: 40px;
+  color: green;
+  background-color: lightgreen;
+  border-radius: 5px;
+}
+
